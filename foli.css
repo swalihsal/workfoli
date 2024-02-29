@@ -1,0 +1,28 @@
+div{
+    height:1000px ;
+    width: 900px;
+    background-color:white;
+    margin: 500px;
+    border: 1px solid;
+    border-radius: 10px;
+
+}
+body{
+    background-color: rgb(247, 251, 251);}
+p{
+    
+    text-align: center;
+}
+
+.work{
+    color:black;
+    padding-top: 200px;
+text-align: center;
+font-size: 30px;
+}
+
+.map{
+    height: 10px;
+    width: 10px;
+    background-color: aqua;
+}
